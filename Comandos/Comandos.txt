@@ -1,0 +1,4 @@
+dotnet new console -o Atividade
+cd atividade 
+dotnet biuld
+dotnet run - executa
